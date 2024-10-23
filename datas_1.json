@@ -1,0 +1,28 @@
+{
+    "entrenamiento_1":[
+        {"input":{"podrias agregarme una nueva tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"me ayudas a incluir una tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"te importaria anotar una tarea para mi":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"me haces el favor de agregar una tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"podrias registrar una tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"me puedes añadir una tarea a la lista":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"puedes incluir una tarea para mi":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"te encargarias de agregar una tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"puedes crear una tarea nueva":1},"output":{"Claro, ¿podrías proporcionarme una descripción del recordatorio que deseas agregar?":1}},
+        {"input":{"agregar recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"agregar un recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"me agregas un recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"puedes añadir un recordatorio por favor":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"podrias agregarme un nuevo recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"te importaria anotar un recordatorio para mi":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"me haces el favor de agregar un recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"podrias registrar un recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"me puedes añadir un recordatorio a la lista":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"puedes incluir un recordatorio para mi":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"te encargarias de agregar un recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"puedes crear un nuevo recordatorio":1},"output":{"Por favor, ingresa el recordatorio, la fecha y la hora en una sola línea, separados por comas. Ejemplo: Comprar leche, 01-04-2024, 10:00 AM.":1}},
+        {"input":{"gracias":1},"output":{"¡Con gusto!":1}},
+        {"input":{"gracias":1},"output":{"De nada":1}}
+    ]
+    
+}

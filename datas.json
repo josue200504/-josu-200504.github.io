@@ -1,0 +1,46 @@
+{
+    "entrenamiento": [
+        {"input":{"hola":1},"output":{"Hola, ¿en qué puedo ayudarte hoy?":1}},
+        {"input":{"hola buenos dias":1},"output":{"Buenos días, ¿cómo puedo asistirte?":1}},
+        {"input":{"hola buenas tardes":1},"output":{"Buenas tardes, ¿cómo puedo asistirte?":1}},
+        {"input":{"hola buenas noches":1},"output":{"Buenas noches, ¿cómo puedo asistirte?":1}},
+        {"input":{"buenos dias":1},"output":{"Buenos días, ¿cómo puedo asistirte?":1}},
+        {"input":{"buenas tardes":1},"output":{"Buenas tardes, ¿cómo puedo asistirte?":1}},
+        {"input":{"buenas noches":1},"output":{"Buenas noches, ¿cómo puedo asistirte?":1}},
+        {"input":{"hola orbyt":1},"output":{"Hola, ¿en qué puedo ayudarte hoy?":1}},
+        {"input":{"adios":1},"output":{"Hasta luego":1}},
+        {"input":{"que cosas puedes hacer":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que haces":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que servicios ofreces":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que tareas puedes realizar":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"cuales son tus capacidades":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que funciones tienes disponibles":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que puedes hacer por mí":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que opciones tienes":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que tipo de cosas puedes hacer":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que habilidades tienes":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"cuales son tus funcionalidades":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"que tareas puedes ejecutar":1},"output":{"Estoy aquí para ayudarte a organizar tus tareas diarias de manera eficiente, así como para agregar notas y crear recordatorios que te mantendrán al día con tus pendientes.":1}},
+        {"input":{"agregar nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"me agregas una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"me haces una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"puedes añadir una nota por favor":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"podrias agregar una nueva nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"me ayudas a guardar una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"podrias anotar algo para mi":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"te encargarias de añadir una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"me puedes escribir una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"me haces el favor de agregar una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"puedes registrar una nota para mi":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"te importaría añadir una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"podrias crear una nota nueva":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"agregar una nota":1},"output":{"Por supuesto, ¿podrías describirme la nota que deseas agregar?.":1}},
+        {"input":{"agregar una tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"agregar tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"me agregas una tarea":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}},
+        {"input":{"puedes añadir una tarea por favor":1},"output":{"Claro, ¿podrías proporcionarme una descripción de la tarea que deseas agregar?":1}}
+
+    ]   
+ 
+
+  }

@@ -1,0 +1,36 @@
+{
+    "entrenamiento_2":[
+        {"input":{"puedes enseñarme mis tareas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me podrias mostrar mis tareas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"quiero ver mis tareas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes mostrarme la lista de mis tareas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me ayudas a ver mis tareas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes darme un vistazo a mis tareas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me gustaria revisar mis tareas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me enseñas las tareas que tengo":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes compartir mis tareas conmigo":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me muestras las tareas pendientes":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes enseñarme mis notas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me podrias mostrar mis notas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"quiero ver mis notas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes mostrarme la lista de mis notas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me ayudas a ver mis notas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes darme un vistazo a mis notas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me gustaria revisar mis notas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me enseñas las notas que tengo":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes compartir mis notas conmigo":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me muestras las notas guardadas":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes enseñarme mis recordatorios":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me podrias mostrar mis recordatorios":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"quiero ver mis recordatorios":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes mostrarme la lista de mis recordatorios":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me ayudas a ver mis recordatorios":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes darme un vistazo a mis recordatorios":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me gustaria revisar mis recordatorios":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me enseñas los recordatorios que tengo":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"puedes compartir mis recordatorios conmigo":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}},
+        {"input":{"me muestras los recordatorios pendientes":1},"output":{"Perfecto, aquí tienes lo que solicitaste.":1}}
+
+
+    ]
+}
